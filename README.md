@@ -1,4 +1,4 @@
-# First
+# Creating Table
 CREATE TABLE `cars` (
   `Vin_Number` int(11) NOT NULL,
   `Model` char(1) DEFAULT NULL,
